@@ -1,2 +1,2 @@
-# Blog
-As the name would states, a blog. Well, not exactly; this is actually a theme that you can use for a blog.
+# French Blog
+Ce entrepôt est pour mon Français projet, La culture de Luxembourg.
